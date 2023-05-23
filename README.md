@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Ozan Arslan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java, mySql**
+- 🌱 I’m currently working with golang, postgresql, docker and opc-ua!
 
 - 📫 How to reach me **arslan.ozan@metu.edu.tr**
 
